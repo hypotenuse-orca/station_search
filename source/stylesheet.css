@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+
+}
+
+ul {
+  padding-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.search-wrapper {
+  padding: 10px 0 10px 10px;
+  text-align: left;
+}
+
+.result-wrapper {
+  padding: 10px 0 10px 20px;
+  background-image: url(assets/media/bg_town.jpg);
+  background-size: cover;
+  text-align: left;
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.search-item {
+  display: inline;
+}
+
+.result-station {
+  font-weight: bold;
+}
+
+.result-shop {
+  padding: 0 0 0 10px;
+}
